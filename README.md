@@ -7,5 +7,4 @@ The work presents a novel Bayesian posterior probabilistic knowledge-based decis
 ## Motivation:
 <img width="2060" height="795" alt="motivation" src="https://github.com/user-attachments/assets/ef193119-9ebf-48fd-bf6a-35f706d8b4b6" />
 
-## Flowchart:
-<img width="5101" height="2647" alt="Flowchart" src="https://github.com/user-attachments/assets/90d1da54-df45-49c3-995b-f7ef54f3abf5" />
+
